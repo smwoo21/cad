@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name hasu)(type Legacy)(uri /Users/smwoo/devwork/cad/kicad_lib_tmk-master/keyboard_parts.lib)(options "")(descr ""))
+  (lib (name sf_boards)(type Legacy)(uri /Users/smwoo/devwork/cad/SparkFun-KiCad-Libraries-master/Libraries/SparkFun-Boards.lib)(options "")(descr ""))
+)

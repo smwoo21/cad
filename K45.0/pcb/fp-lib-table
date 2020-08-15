@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name keebs)(type KiCad)(uri /Users/smwoo/devwork/cad/keebs.pretty-master)(options "")(descr ""))
+  (lib (name keyboard_parts)(type KiCad)(uri /Users/smwoo/devwork/cad/keyboard_parts.pretty-master)(options "")(descr ""))
+  (lib (name Footprints)(type KiCad)(uri /Users/smwoo/devwork/cad/SparkFun-KiCad-Libraries-master/Footprints/Boards.pretty)(options "")(descr ""))
+)
